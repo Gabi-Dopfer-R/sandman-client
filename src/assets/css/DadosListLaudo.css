@@ -60,6 +60,20 @@
     margin-left: 5px;
     font-size: 14px;
   }
+  .graficos-exame {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; 
+  }
+  
+  .grafico-img {
+    width: 40%; 
+    max-width: 60px; 
+    margin: 0 auto; 
+  }
+  
+  
+
   .error {
     color: red;
     font-size: 10px;
